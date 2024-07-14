@@ -1,0 +1,19 @@
+{
+  "name": "integrate-dyte-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "integrate-dyte-app": "./index.js"
+  },
+  "dependencies": {
+    "cross-spawn": "7.0.3",
+    "fast-xml-parser": "^4.4.0",
+    "xml2js": "^0.6.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
